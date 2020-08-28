@@ -1,0 +1,37 @@
+.container{
+    padding: 20px;
+    margin:20px
+}
+.h1tag{
+    font-family: CooperMdBT;
+    font-size: 36px;
+}
+.h2tag{
+    font-family: CooperMdBT;
+    font-size: 30px;
+}
+.h3tag{
+    font-family: Karla;
+    font-size: 25px;
+    font-weight: bold;
+}
+.h4tag{
+    font-family: CooperMdBT;
+    font-size: 19px;
+    font-weight: normal;
+}
+.h5tag{
+    font-family: kalra;
+    font-size: 17px;
+    font-weight: bold;
+}
+.h6tag{
+    font-family: kalra;
+    font-size: 15px;
+    font-weight: bold;
+}
+.TitleText{
+    font-family:Cooper;
+    font-size: 36px;
+    font-weight: normal;
+}
